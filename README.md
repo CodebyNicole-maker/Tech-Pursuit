@@ -1,4 +1,4 @@
-# techie-quiz-test
+# Tech Pursuit
 
 ## Description
 This application takes starter code of a tech knowledge quiz and tests it using Cypress for both component and e2e testing. The application provides users with a quiz to test their knowledge of coding and gives a final score at the end. 
@@ -17,7 +17,7 @@ To get the application up and running on your local machine, follow these steps:
 1. **Clone the repository**  
    Use the following command to clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/your-username/book-search-app.git
+   git clone 
    ```
 
 2. **Install all necessary packages**  
@@ -44,5 +44,5 @@ Thank you to edX bootcamps for the starter code in this project.
 
 ## Questions
 If you have any questions or need further assistance, feel free to reach out:
-- **GitHub Profile**: https://github.com/erindagfoley  
-- **Email**: erindagfoley@gmail.com  
+- **GitHub Profile**: https://github.com/CodebyNicole-maker
+- **Email**: nicole.barger22@gmail.com  
